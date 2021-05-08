@@ -27,7 +27,7 @@ let quotes=[
     'It is better to fail in originality than to succeed in imitation. (Herman Melville)'
 
 ];
-
+// Quotes from this website: https://blog.hubspot.com/sales/famous-quotes
 
 // let btn=document.querySelector('.btn');
 // btn.addEventListener('click', displayQuote);
@@ -49,7 +49,7 @@ let quote=`<div class="card">
 div.innerHTML=quote;
 
 }
-
+// This Javascript code was adapted from this repository: https://github.com/rutikwankhade/Random-Quote
 
 //const h2 = document.createElement('h2');
 // h2.textContent = "This content added by JavaScript";
